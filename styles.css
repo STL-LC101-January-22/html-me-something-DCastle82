@@ -5,11 +5,17 @@ body {
 }
 
   #mainHeading {
-      color: red
+      color: red;
   }
+ 
   .funParagraph {
-      color: green
+    color: green
   }
-body {
+
+  body {
     background-color: yellow;
+}
+
+#testP {
+    color: green;
 }
